@@ -6,3 +6,9 @@ For this challenge, I was asked to build a portfolio page of my own. My portfoli
 
 ## Installation
 
+My first step of installation was creating an html from scratch, a css style page, and linking the css to my html. I created a title for my portfolio "Dimitra Anastasopoulos" which is found in the first h1.
+
+Next, in my body tag, I created my nav. This is where you find the buttons "About Me," "Work," "Contact," and "Resume." I edited my nav bar in css, by using display: flex, and justify-content: flex-end to make the nav bar appear to the far right of the screen. I also edited the font and color.
+
+Next, I worked on the header of my page. I inserted a header image in the class "hero" in css, where i created a flexbox for my header and inserted a background image url. I also included the background-size: cover to make sure the image covered the entire flexbox, instead of repeating itself. I created a title "My Portfolio" and inserted it to apper on top of my image in css under "h2." I edited the font color, background color, and font to make it more appealing.
+
