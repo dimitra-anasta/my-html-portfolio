@@ -19,6 +19,8 @@ Next, I worked on the header of my page. I inserted a header image in the class 
 
 The trickiest part of this challenge was designing the layout of my portfolio with multiple flexboxes. I had a lot of trial and error with sizing, flex wrap, justify-content, and align-items. I also included titles on top of each flexbox which was challenging to create. For my first project, I made the title a button that when it is clicked, directs you to a new tab where you find my first project. 
 
+I used @media screen and max-width for the resizing of my webpage. This means that the content and layout of my page will adapt to various screen sizes, whether someone is on a computer, iPhone, or iPad. I also used the flex-direction:column and width properties to help the resizing and layout look presentable.
+
 My contact information was created in the footer of my html. Here, I inserted four ways to contact me; a telephone number, email, GitHub, and LinkedIn. I used href to create a link that directs you to the sites provided and target="_blank" to make sure the links open in a separate tab. To insert the icons next to each contact link, I used w3schools.com to learn what I needed to insert into my html for the icon to appear.
 
 
