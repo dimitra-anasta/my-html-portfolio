@@ -14,6 +14,11 @@ Next, in my body tag, I created my nav. This is where you find the buttons "Abou
 
 Next, I worked on the header of my page. I inserted a header image in the class "hero" in css, where i created a flexbox for my header and inserted a background image url. I also included the background-size: cover to make sure the image covered the entire flexbox, instead of repeating itself. I created a title "My Portfolio" and inserted it to apper on top of my image in css under "h2." I edited the font color, background color, and font to make it more appealing.
 
+The trickiest part of this challenge was designing the layout of my portfolio with multiple flexboxes. I had a lot of trial and error with sizing, flex wrap, justify-content, and align-items. I also included titles on top of each flexbox which was challenging to create. For my first project, I made the title a button that when it is clicked, directs you to a new tab where you find my first project. 
+
+My contact information was created in the footer of my html. Here, I inserted four ways to contact me; a telephone number, email, GitHub, and LinkedIn. I used href to create a link that directs you to the sites provided and target="_blank" to make sure the links open in a separate tab. 2
+
+
 ## Credits
 
 https://www.w3schools.com/w3css/defaulT.asp
