@@ -1,5 +1,8 @@
 # my-html-portfolio
 
+https://dimitra-anasta.github.io/my-html-portfolio/
+
+
 ![portfolio preview](assets/images/Screen%20Shot%202022-07-28%20at%204.56.34%20PM.png) 
 
 ## Description
@@ -16,7 +19,9 @@ Next, I worked on the header of my page. I inserted a header image in the class 
 
 The trickiest part of this challenge was designing the layout of my portfolio with multiple flexboxes. I had a lot of trial and error with sizing, flex wrap, justify-content, and align-items. I also included titles on top of each flexbox which was challenging to create. For my first project, I made the title a button that when it is clicked, directs you to a new tab where you find my first project. 
 
-My contact information was created in the footer of my html. Here, I inserted four ways to contact me; a telephone number, email, GitHub, and LinkedIn. I used href to create a link that directs you to the sites provided and target="_blank" to make sure the links open in a separate tab. 2
+My contact information was created in the footer of my html. Here, I inserted four ways to contact me; a telephone number, email, GitHub, and LinkedIn. I used href to create a link that directs you to the sites provided and target="_blank" to make sure the links open in a separate tab. To insert the icons next to each contact link, I used w3schools.com to learn what I needed to insert into my html for the icon to appear.
+
+
 
 
 ## Credits
